@@ -17,8 +17,8 @@ services:
         published: 1883
         protocol: tcp
         mode: host
-      - target: 9001
-        published: 9001
+      - target: 9002
+        published: 9002
         protocol: tcp
         mode: host
 
